@@ -12,6 +12,8 @@ gem 'coffee-rails', '3.2.2'
 gem 'uglifier', '1.2.3'
 end
 gem 'jquery-rails'
+gem 'execjs'
+gem 'therubyracer'
 group :production do
 gem 'pg', '0.12.2'
 end
